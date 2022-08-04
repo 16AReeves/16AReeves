@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @16AReeves
 - 👀 I’m interested in learning to code in the bootcamp at unc's course!
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on the bootcamp assignments
+- 💞️ I’m looking to create my own projects eventually.
 - 📫 How to reach me email at 16areeves@gmail.com
 
 <!---
